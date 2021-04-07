@@ -1,0 +1,15 @@
+
+RDKit Cookbook 			https://rdkit.org/docs/Cookbook.html
+--chemischen File-Formate ineinander umzuwandeln, bzw chemische Information wie Moleküle oder Reaktionen zu visualisieren--
+
+
+--------Databases-------------------------------------------------------
+Die BIGG database 		http://bigg.ucsd.edu/
+KEGG 				https://www.genome.jp/kegg/kegg.html 
+MetaCyc 			https://metacyc.org/ 		--gute datenbanken für metabolische Reaktionsinformation.--
+------------------------------------------------------------------------
+
+MetaNetX 			https://www.metanetx.org/ 
+--Resource um Molekülbezeichnungen zwischen verschiedenen Datenbanken bzw BIGG Modellen hin und her zu übersetzen--
+
+kleine Moleküle ---> SMILES Strings	http://opensmiles.org/		
